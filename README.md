@@ -1,6 +1,6 @@
 ## UMOJA HACK NOVEMBER 2020 DSN FUTA AI+ SOLUTIONS
 
-1. [Fork](https://github.com/aiplus-futa/Umoja_nov_2020.git) this repository.
+1. [Fork](https://github.com/aiplus-futa/Umoja_nov_2020.git/fork) this repository.
 
 2. Add your solution to the folder.
 
